@@ -1,4 +1,4 @@
 # backend
 
-Projeto Uc3
-Marcos
+como usar:
+pip install
